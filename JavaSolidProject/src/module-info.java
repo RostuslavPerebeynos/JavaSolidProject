@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Ростислав
+ *
+ */
+module JavaSolidProject {
+}
